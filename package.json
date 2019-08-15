@@ -1,0 +1,23 @@
+{
+  "name": "node-coinbene",
+  "version": "1.0.4",
+  "description": "coinbene node.js api",
+  "main": "./lib/node-coinbene",
+  "directories": {
+        "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EdinsonCS",
+  "license": "MIT",
+  "maintainers": [
+        "edinsoncs <edinsoncode@gmail.com>"
+  ],
+ "keywords": ["coinbene", "module coinbene", "nodejs coinbene", "api coinbene", "coinbene api rest"],
+  "dependencies": {
+    "js-md5": "^0.7.3",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
